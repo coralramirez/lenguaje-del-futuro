@@ -1,0 +1,44 @@
+
+header {
+   background-image:url("../../img/grupal.jpg");
+     background-size: cover;
+    height: 500px;
+}
+
+section .col4 img{
+    width: 100%;
+}
+ul{
+    list-style: none;
+    margin: 80px 0px;
+}
+li{
+    display: inline-block;
+    margin: 0 10px;
+    
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.sumate{
+    padding: 10px;
+    background-color: rgba(255, 165, 0, 0.79);
+    margin: 80px 60px;
+    
+}
+.logo{
+    margin: 100px 0;
+}
+.col4 img{
+    margin: 15px;
+}
+.col4 p{
+    margin: 15px;
+}
+.col12{
+    background-color:#000;
+}
+.col12 p{
+    color: #fff;
+}
